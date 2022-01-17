@@ -1,0 +1,11 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\bin\Debug\MidiApplication.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\bin\Debug\MidiApplication.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\bin\Debug\MidiApplication.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.ParentForm.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\MidiApplication\MidiApplication\obj\Debug\MidiApplication.ChildForm.resources
