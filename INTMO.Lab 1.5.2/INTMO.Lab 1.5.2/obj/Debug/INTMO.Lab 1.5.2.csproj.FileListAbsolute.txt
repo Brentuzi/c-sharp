@@ -1,0 +1,9 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\bin\Debug\INTMO.Lab 1.5.2.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\bin\Debug\INTMO.Lab 1.5.2.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\bin\Debug\INTMO.Lab 1.5.2.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\obj\Debug\INTMO.Lab_1._5._2.Form1.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\obj\Debug\INTMO.Lab_1._5._2.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\obj\Debug\INTMO.Lab 1.5.2.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\obj\Debug\INTMO.Lab 1.5.2.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\obj\Debug\INTMO.Lab 1.5.2.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\INTMO.Lab 1.5.2\INTMO.Lab 1.5.2\obj\Debug\INTMO.Lab 1.5.2.pdb

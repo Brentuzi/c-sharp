@@ -1,0 +1,11 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\bin\Debug\ITMO.CSCourse.Lab01-Ex05.02.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\bin\Debug\ITMO.CSCourse.Lab01-Ex05.02.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\bin\Debug\ITMO.CSCourse.Lab01-Ex05.02.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01-Ex05.02.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01_Ex05._02.ParentForm.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01_Ex05._02.Form2.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01_Ex05._02.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01-Ex05.02.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01-Ex05.02.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01-Ex05.02.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.Lab01-Ex05.02\obj\Debug\ITMO.CSCourse.Lab01-Ex05.02.pdb
