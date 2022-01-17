@@ -1,0 +1,10 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\bin\Debug\ITMO.Lab 1.1.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\bin\Debug\ITMO.Lab 1.1.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\bin\Debug\ITMO.Lab 1.1.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab 1.1.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab_1._1.Form1.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab_1._1.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab 1.1.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab 1.1.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\лабы\ITMO.Lab 1.1\ITMO.Lab 1.1\obj\Debug\ITMO.Lab 1.1.pdb
