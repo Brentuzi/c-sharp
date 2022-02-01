@@ -1,0 +1,11 @@
+C:\Users\Alex-\source\repos\Date\Date\bin\Debug\Date.exe.config
+C:\Users\Alex-\source\repos\Date\Date\bin\Debug\Date.exe
+C:\Users\Alex-\source\repos\Date\Date\bin\Debug\Date.pdb
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.csprojAssemblyReference.cache
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.Form1.resources
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.Properties.Resources.resources
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.csproj.GenerateResource.cache
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.exe
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.pdb
+C:\Users\Alex-\source\repos\Date\Date\obj\Debug\Date.AddForm.resources
