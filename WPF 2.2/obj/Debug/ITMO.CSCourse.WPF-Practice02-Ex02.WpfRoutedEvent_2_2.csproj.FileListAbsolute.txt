@@ -1,0 +1,15 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\bin\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\bin\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\bin\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\MainWindow.g.cs
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\App.g.cs
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2_MarkupCompile.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2_MarkupCompile.lref
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\MainWindow.baml
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.g.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF_Practice02_Ex02.WpfRoutedEvent_2_2.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2\obj\Debug\ITMO.CSCourse.WPF-Practice02-Ex02.WpfRoutedEvent_2_2.pdb
