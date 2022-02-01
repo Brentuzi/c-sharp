@@ -1,0 +1,16 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\bin\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\bin\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\bin\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\App.g.cs
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo_MarkupCompile.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo_MarkupCompile.lref
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\MainWindow.baml
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.g.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF_Practice09_Ex01.DataBindingDemo.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo\obj\Debug\ITMO.CSCourse.WPF-Practice09-Ex01.DataBindingDemo.pdb

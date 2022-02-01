@@ -1,0 +1,9 @@
+﻿<Application x:Class="ITMO.CSCourse.WPF_Practice09_Ex01.DataBindingDemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ITMO.CSCourse.WPF_Practice09_Ex01.DataBindingDemo"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
